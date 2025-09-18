@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4339149066060817260
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 20.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 20.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 20.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 496.84
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 13.96
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 430.26
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.96919537
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.2462933
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 28.517
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69d923327a6791e468dbdcc46338a8df, type: 2}
+    - target: {fileID: 919132149155446097, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      propertyPath: m_Name
+      value: redPepper
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6168384158642558170}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6314690464256740642}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5012350449926029762}
+  m_SourcePrefab: {fileID: 100100000, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+--- !u!1 &3528192918160989757 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8757cbbfde22ad34b809c8fc0b6282cf, type: 3}
+  m_PrefabInstance: {fileID: 4339149066060817260}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6168384158642558170
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3528192918160989757}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.09995563, y: 0.17395332, z: 0.04512186}
+  m_Center: {x: -0.0000000037252907, y: 0.09111126, z: -2.220446e-16}
+--- !u!54 &6314690464256740642
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3528192918160989757}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &5012350449926029762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3528192918160989757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fa867edfac06774aaaa21d8b03b3d11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  plantType: 0
+  seedPrefab: {fileID: 3038188160319032312, guid: 412079dfab1d2694bb8c15b823aed208, type: 3}
+  seedPrice: 10
+  seedName: 
+  canBuy: 1
